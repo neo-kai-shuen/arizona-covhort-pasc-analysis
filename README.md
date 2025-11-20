@@ -22,12 +22,10 @@ This Capstone project is a collaboration with the University of Arizona Mel & En
 #### Data Source
 
 
-#### Approach
-
 #### Statistical Analysis
 
 
-#### Key Results
+#### Models
 
 
 #### Recommendations
@@ -36,5 +34,5 @@ This Capstone project is a collaboration with the University of Arizona Mel & En
 #### Technical stack
 
 
-#### Data visualisations
+
 
