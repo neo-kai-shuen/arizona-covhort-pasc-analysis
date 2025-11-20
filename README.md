@@ -5,6 +5,12 @@
 ### Understanding the effects of mental health well-being on the risks of developing PASC (Post-acute Sequelae of SARS-CoV-2) infection for Arizona CoVHORT Track PCC Participants
 
 
+#### Acknowledgements
+
+Thank you to The University of Arizona and CDC Grant NU58IP000005 Tracking the Burden, distribution, and impact of Post COVID-19 conditions in diverse populations for children, adolescents, and adults (Track PCC) for funding this project.
+
+Data Sharing and Publication - Please note that the raw data, results and outputs of this project may be subject to limitations on dissemination. Depending on the nature of the findings and their potential implications, full public release may not be possible. Any decisions regarding publication or productization will be made in consultation with the supervising institution and relevant stakeholders.
+
 #### Problem
 
 
