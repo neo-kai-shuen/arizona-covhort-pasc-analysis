@@ -13,7 +13,7 @@ Data Sharing and Publication - Please note that the raw data are subject to diss
 
 #### Introduction
 
-This project was conducted in collaboration with the Arizona CoVHORT at the University of Arizona Mel and Enid Zuckerman College of Public Health, and uses data contributed by participants in the TrackPCC cohort that aims to uncover how Covid-19 affects the residents of Arizona state.
+This project was conducted in collaboration with the Arizona CoVHORT at the University of Arizona Mel and Enid Zuckerman College of Public Health, and uses data contributed by participants in the TrackPCC cohort that aims to uncover how COVID-19 affects the residents of Arizona state.
 
 #### Hypothesis
 
